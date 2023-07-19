@@ -2,6 +2,7 @@
 <br>
 # Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tngks1995)](https://solved.ac/tngks1995/)
+👈 클릭
 <br>
 삼성 SW역량테스트 B형 취득
 <br>
@@ -22,5 +23,4 @@
 </div>
 
 # Notion
-<br>
-https://pattern-ounce-358.notion.site/a5f81bba189d4fcd955578dc3805e4e6?pvs=4
+[노션 링크](https://pattern-ounce-358.notion.site/a5f81bba189d4fcd955578dc3805e4e6?pvs=4)
