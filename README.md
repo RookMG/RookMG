@@ -22,5 +22,8 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
 </div>
 
-# Notion
-[노션 링크](https://pattern-ounce-358.notion.site/a5f81bba189d4fcd955578dc3805e4e6?pvs=4)
+# 비대면 단체사진 서비스, MOZZI
+[MOZZI](https://github.com/RookMG/Mozzi)
+
+# 관광지 추천 커뮤니티, 여행어때
+[여행어때](https://github.com/RookMG/EnjoyTrip)
