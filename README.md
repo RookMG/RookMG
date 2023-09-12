@@ -23,7 +23,7 @@
 </div>
 
 # 비대면 단체사진 서비스, MOZZI
-[MOZZI](https://github.com/RookMG/Mozzi_Garlic)
+[MOZZI](https://github.com/TeamGarlic/Mozzi)
 
 # 관광지 추천 커뮤니티, 여행어때
 [여행어때](https://github.com/RookMG/EnjoyTrip)
